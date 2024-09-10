@@ -1,9 +1,8 @@
-import React from "react";
 import styles from "./Header.module.css";
 
 const Header = () => {
   return (
-    <div>
+    <div className={styles.cont_Header}>
       <h3>Header</h3>
     </div>
   );

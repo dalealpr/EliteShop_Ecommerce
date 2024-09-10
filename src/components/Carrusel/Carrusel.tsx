@@ -1,9 +1,8 @@
-import React from "react";
 import styles from "./Carrusel.module.css";
 
 const Carrusel = () => {
   return (
-    <div>
+    <div className={styles.cont_carrusel}>
       <h3>Carrusel</h3>
     </div>
   );
