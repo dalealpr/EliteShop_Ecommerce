@@ -3,8 +3,6 @@ import img1 from "../../assets/img/guitarra_01.png";
 import img2 from "../../assets/img/guitarra_02.jpg";
 import img3 from "../../assets/img/guitarra_03.jpg";
 
-import { Button } from "flowbite-react";
-
 const Carrusel = () => {
   return (
     <div className="w-4/5 mx-auto h-[620px]">
